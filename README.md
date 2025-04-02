@@ -5,4 +5,4 @@ This project demonstrates an image-based search application that uses the ResNet
 ## Features
 - **Image Feature Extraction**: Uses a pre-trained ResNet-50 model for feature extraction.
 - **Search Functionality**: Allows users to search for images based on visual similarity.
-- **Technologies**: Python, TensorFlow/Keras (or PyTorch), OpenCV.
+- **Technologies**: Python, TensorFlow/Keras , OpenCV.
