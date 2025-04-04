@@ -12,7 +12,7 @@ from io import BytesIO
 from PIL import Image
 
 # --- Streamlit UI Header ---
-st.title("👗 Fashion Recommendation System")
+st.title("👗 Image based Fashion Recommendation System")
 
 # --- Load Precomputed Features & Filenames ---
 IMAGE_DIR = r"C:\Users\HP\OneDrive\Desktop\images"  # Corrected image path
